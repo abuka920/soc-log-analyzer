@@ -1,5 +1,7 @@
 # SOC Log Analyzer with MITRE ATT&CK Mapping
 
+**Live demo:** https://kalif-soc-analyzer.streamlit.app
+
 Parses Linux `auth.log` and `syslog` to detect brute-force attacks, impossible travel, and privilege escalation — with every alert mapped to the MITRE ATT&CK framework.
 
 ## Detections
