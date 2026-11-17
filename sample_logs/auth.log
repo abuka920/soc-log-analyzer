@@ -1,0 +1,73 @@
+Nov 15 06:12:01 prod-server sshd[1234]: Failed password for root from 185.220.101.47 port 51234 ssh2
+Nov 15 06:12:02 prod-server sshd[1235]: Failed password for root from 185.220.101.47 port 51235 ssh2
+Nov 15 06:12:03 prod-server sshd[1236]: Failed password for admin from 185.220.101.47 port 51236 ssh2
+Nov 15 06:12:04 prod-server sshd[1237]: Failed password for root from 185.220.101.47 port 51237 ssh2
+Nov 15 06:12:04 prod-server sshd[1238]: Failed password for ubuntu from 185.220.101.47 port 51238 ssh2
+Nov 15 06:12:05 prod-server sshd[1239]: Failed password for root from 185.220.101.47 port 51239 ssh2
+Nov 15 06:12:05 prod-server sshd[1240]: Failed password for admin from 185.220.101.47 port 51240 ssh2
+Nov 15 06:12:06 prod-server sshd[1241]: Failed password for root from 185.220.101.47 port 51241 ssh2
+Nov 15 06:12:06 prod-server sshd[1242]: Failed password for root from 185.220.101.47 port 51242 ssh2
+Nov 15 06:12:07 prod-server sshd[1243]: Failed password for root from 185.220.101.47 port 51243 ssh2
+Nov 15 06:12:07 prod-server sshd[1244]: Failed password for ubuntu from 185.220.101.47 port 51244 ssh2
+Nov 15 06:12:08 prod-server sshd[1245]: Failed password for testuser from 185.220.101.47 port 51245 ssh2
+Nov 15 06:12:08 prod-server sshd[1246]: Failed password for admin from 185.220.101.47 port 51246 ssh2
+Nov 15 06:12:09 prod-server sshd[1247]: Failed password for root from 185.220.101.47 port 51247 ssh2
+Nov 15 06:12:09 prod-server sshd[1248]: Failed password for root from 185.220.101.47 port 51248 ssh2
+Nov 15 06:12:10 prod-server sshd[1249]: Failed password for deploy from 185.220.101.47 port 51249 ssh2
+Nov 15 06:12:10 prod-server sshd[1250]: Failed password for root from 185.220.101.47 port 51250 ssh2
+Nov 15 06:12:11 prod-server sshd[1251]: Failed password for root from 185.220.101.47 port 51251 ssh2
+Nov 15 06:12:11 prod-server sshd[1252]: Failed password for ubuntu from 185.220.101.47 port 51252 ssh2
+Nov 15 06:12:12 prod-server sshd[1253]: Failed password for root from 185.220.101.47 port 51253 ssh2
+Nov 15 06:12:12 prod-server sshd[1254]: Failed password for root from 185.220.101.47 port 51254 ssh2
+Nov 15 06:12:13 prod-server sshd[1255]: Failed password for postgres from 185.220.101.47 port 51255 ssh2
+Nov 15 06:12:13 prod-server sshd[1256]: Failed password for oracle from 185.220.101.47 port 51256 ssh2
+Nov 15 06:12:14 prod-server sshd[1257]: Failed password for admin from 185.220.101.47 port 51257 ssh2
+Nov 15 06:12:14 prod-server sshd[1258]: Failed password for root from 185.220.101.47 port 51258 ssh2
+Nov 15 06:12:15 prod-server sshd[1259]: Failed password for root from 185.220.101.47 port 51259 ssh2
+Nov 15 06:12:15 prod-server sshd[1260]: Failed password for ec2-user from 185.220.101.47 port 51260 ssh2
+Nov 15 06:12:16 prod-server sshd[1261]: Failed password for centos from 185.220.101.47 port 51261 ssh2
+Nov 15 06:12:16 prod-server sshd[1262]: Failed password for root from 185.220.101.47 port 51262 ssh2
+Nov 15 06:12:17 prod-server sshd[1263]: Failed password for root from 185.220.101.47 port 51263 ssh2
+Nov 15 06:12:17 prod-server sshd[1264]: Failed password for ubuntu from 185.220.101.47 port 51264 ssh2
+Nov 15 06:12:18 prod-server sshd[1265]: Failed password for admin from 185.220.101.47 port 51265 ssh2
+Nov 15 06:12:19 prod-server sshd[1266]: Failed password for root from 185.220.101.47 port 51266 ssh2
+Nov 15 06:12:19 prod-server sshd[1267]: Failed password for root from 185.220.101.47 port 51267 ssh2
+Nov 15 06:12:20 prod-server sshd[1268]: Failed password for root from 185.220.101.47 port 51268 ssh2
+Nov 15 06:12:20 prod-server sshd[1269]: Failed password for root from 185.220.101.47 port 51269 ssh2
+Nov 15 06:12:21 prod-server sshd[1270]: Failed password for admin from 185.220.101.47 port 51270 ssh2
+Nov 15 06:12:21 prod-server sshd[1271]: Failed password for root from 185.220.101.47 port 51271 ssh2
+Nov 15 06:12:22 prod-server sshd[1272]: Failed password for root from 185.220.101.47 port 51272 ssh2
+Nov 15 06:12:22 prod-server sshd[1273]: Failed password for testuser from 185.220.101.47 port 51273 ssh2
+Nov 15 06:12:23 prod-server sshd[1274]: Failed password for root from 185.220.101.47 port 51274 ssh2
+Nov 15 06:12:23 prod-server sshd[1275]: Failed password for root from 185.220.101.47 port 51275 ssh2
+Nov 15 06:12:24 prod-server sshd[1276]: Failed password for root from 185.220.101.47 port 51276 ssh2
+Nov 15 06:12:24 prod-server sshd[1277]: Failed password for ubuntu from 185.220.101.47 port 51277 ssh2
+Nov 15 06:12:25 prod-server sshd[1278]: Failed password for root from 185.220.101.47 port 51278 ssh2
+Nov 15 06:12:25 prod-server sshd[1279]: Failed password for root from 185.220.101.47 port 51279 ssh2
+Nov 15 06:12:26 prod-server sshd[1280]: Failed password for admin from 185.220.101.47 port 51280 ssh2
+Nov 15 06:12:26 prod-server sshd[1281]: Failed password for root from 185.220.101.47 port 51281 ssh2
+Nov 15 06:12:27 prod-server sshd[1282]: Failed password for root from 185.220.101.47 port 51282 ssh2
+Nov 15 06:12:27 prod-server sshd[1283]: Failed password for root from 185.220.101.47 port 51283 ssh2
+Nov 15 06:12:28 prod-server sshd[1284]: Accepted password for ubuntu from 185.220.101.47 port 51284 ssh2
+Nov 15 06:15:03 prod-server sshd[1300]: Accepted password for jsmith from 142.250.80.1 port 44001 ssh2
+Nov 15 06:15:04 prod-server sshd[1301]: pam_unix(sshd:session): session opened for user jsmith by (uid=0)
+Nov 15 09:30:11 prod-server sudo[2001]: jsmith : TTY=pts/1 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/apt-get update
+Nov 15 09:30:45 prod-server sudo[2002]: www-data : TTY=pts/2 ; PWD=/var/www ; USER=root ; COMMAND=/bin/bash
+Nov 15 09:31:00 prod-server sudo[2003]: www-data : TTY=pts/2 ; PWD=/var/www ; USER=root ; COMMAND=/bin/su -
+Nov 15 10:00:00 prod-server sshd[3001]: Accepted password for admin from 142.250.80.1 port 55001 ssh2
+Nov 15 10:10:00 prod-server sshd[3002]: Accepted password for admin from 95.108.213.42 port 55002 ssh2
+Nov 15 11:15:22 prod-server useradd[4001]: new user: name=backdoor, UID=1337, GID=1337, home=/home/backdoor, shell=/bin/bash
+Nov 15 11:16:00 prod-server usermod[4002]: add backdoor to group sudo
+Nov 15 12:00:00 prod-server sshd[5001]: Accepted publickey for deploy from 10.0.0.5 port 22001 ssh2
+Nov 15 12:01:00 prod-server sshd[5002]: Accepted publickey for deploy from 10.0.0.5 port 22002 ssh2
+Nov 15 13:00:00 prod-server sshd[5100]: Failed password for invalid user scanner from 45.142.212.100 port 60001 ssh2
+Nov 15 13:00:01 prod-server sshd[5101]: Failed password for invalid user scanner from 45.142.212.100 port 60002 ssh2
+Nov 15 13:00:02 prod-server sshd[5102]: Failed password for root from 45.142.212.100 port 60003 ssh2
+Nov 15 13:00:03 prod-server sshd[5103]: Failed password for root from 45.142.212.100 port 60004 ssh2
+Nov 15 13:00:04 prod-server sshd[5104]: Failed password for root from 45.142.212.100 port 60005 ssh2
+Nov 15 13:00:05 prod-server sshd[5105]: Failed password for ubuntu from 45.142.212.100 port 60006 ssh2
+Nov 15 14:30:00 prod-server sudo[6001]: jsmith : TTY=pts/3 ; PWD=/home/jsmith ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Nov 15 15:00:00 prod-server sshd[7001]: Accepted password for mwilliams from 10.0.0.10 port 23001 ssh2
+Nov 15 16:45:00 prod-server sshd[8001]: Accepted password for jsmith from 10.0.0.15 port 24001 ssh2
+Nov 15 17:00:00 prod-server cron[9001]: (www-data) CMD (crontab -e)
+Nov 15 23:59:59 prod-server sshd[9999]: Failed password for root from 178.248.232.11 port 60999 ssh2
